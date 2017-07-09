@@ -1,0 +1,16 @@
+PODS:
+  - MyCategory (0.1.0)
+
+DEPENDENCIES:
+  - MyCategory (from `../../../`)
+
+EXTERNAL SOURCES:
+  MyCategory:
+    :path: ../../../
+
+SPEC CHECKSUMS:
+  MyCategory: 13071310f4c7e1087e07dff1219b920adba094a8
+
+PODFILE CHECKSUM: 37294e6675ba3cd5710a90f4e1d63e781653edc3
+
+COCOAPODS: 1.1.1
