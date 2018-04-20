@@ -1,16 +1,14 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "35437E58CEA477B442667A45CA0DAAF68B67C7AD",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "84EDA11446739DF452B0514524F20C66B5F6EED1",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "84EDA11446739DF452B0514524F20C66B5F6EED1" : 9223372036854775807,
-    "35437E58CEA477B442667A45CA0DAAF68B67C7AD" : 9223372036854775807
+    "84EDA11446739DF452B0514524F20C66B5F6EED1" : 9223372036854775807
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BA0DF682-60C3-4D3F-B3CD-F445AF4A2958",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "84EDA11446739DF452B0514524F20C66B5F6EED1" : "",
-    "35437E58CEA477B442667A45CA0DAAF68B67C7AD" : "MyCategory\/"
+    "84EDA11446739DF452B0514524F20C66B5F6EED1" : ""
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "PROJECT",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -19,7 +17,7 @@
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CocoaPods\/pod-template.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "35437E58CEA477B442667A45CA0DAAF68B67C7AD"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "84EDA11446739DF452B0514524F20C66B5F6EED1"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wangbinwangbin\/MyCategory.git",

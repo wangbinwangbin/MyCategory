@@ -2,15 +2,11 @@ PODS:
   - MyCategory (0.1.0)
 
 DEPENDENCIES:
-  - MyCategory (from `../../../`)
-
-EXTERNAL SOURCES:
-  MyCategory:
-    :path: ../../../
+  - MyCategory
 
 SPEC CHECKSUMS:
-  MyCategory: 13071310f4c7e1087e07dff1219b920adba094a8
+  MyCategory: 8803cfc9baad457b2bf77f001b720e64f11a1df5
 
-PODFILE CHECKSUM: 37294e6675ba3cd5710a90f4e1d63e781653edc3
+PODFILE CHECKSUM: 03892c1a3adcf53c9a20feb0253922b074ba034c
 
 COCOAPODS: 1.1.1

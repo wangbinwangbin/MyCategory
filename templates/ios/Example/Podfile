@@ -1,7 +1,11 @@
+
+
+source 'https://git.coding.net/wangbinwangbin/MySpecs.git'
+
 use_frameworks!
 
 target 'PROJECT_Example' do
-  pod 'MyCategory', :path => '../../../'
+  pod 'MyCategory'
 
   target 'PROJECT_Tests' do
     inherit! :search_paths
